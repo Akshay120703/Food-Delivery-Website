@@ -1,0 +1,13 @@
+How to Open the Home Page of the Website:
+Select any one of these files named:-
+1) Index1
+2) Index2
+
+All the other webpages, html files, php files, Javascript files are alongside the Home
+Page of the website.
+
+Steps to open the Zip File:
+1)First of all, download the Zip file into your device and extract it to a specified folder.
+2)Now, open the file named Index1 or Index2 which is also the home page of the website.
+
+Project Link:- https://drive.google.com/file/d/1CFQ7Dfex_8sOAcxeQFsIsfU2D2FuTD2J/view
